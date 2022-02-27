@@ -1,0 +1,382 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A diamond or rich jewel, presented to the Common-wealth of England, for inriching of the nation; being necessary for the use of all marchants and tradesmen, and advantagious to the poor: wherein is declared a way, 1 How all forraign moneys may pass in England, and gain the merchants 10 percent. and to put off our English coyn into other countries. To settle a banke in London for furnishing all trades with money, and to quit the nation of beggars... 8. To settle an insurance office cheap, and not to pay above five in the hundred for insurance from pirats in all parts of Europe and America. / By Capt. Samuel Chappel. Licensed, and entred according to order.</title>
+            <author>Chappel, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78575</idno>
+            <idno type="STC">Wing C1955</idno>
+            <idno type="STC">Thomason E621_6</idno>
+            <idno type="STC">ESTC R206409</idno>
+            <idno type="EEBO-CITATION">99865570</idno>
+            <idno type="PROQUEST">99865570</idno>
+            <idno type="VID">117815</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78575)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117815)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 95:E621[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A diamond or rich jewel, presented to the Common-wealth of England, for inriching of the nation; being necessary for the use of all marchants and tradesmen, and advantagious to the poor: wherein is declared a way, 1 How all forraign moneys may pass in England, and gain the merchants 10 percent. and to put off our English coyn into other countries. To settle a banke in London for furnishing all trades with money, and to quit the nation of beggars... 8. To settle an insurance office cheap, and not to pay above five in the hundred for insurance from pirats in all parts of Europe and America. / By Capt. Samuel Chappel. Licensed, and entred according to order.</title>
+                  <author>Chappel, Samuel.</author>
+               </titleStmt>
+               <extent>[10], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes, against the Lower-Pump in Grubstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650 [i.e. 1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Commercial policy --  Early works to 1800.</term>
+               <term>Great Britain --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:117815:1"/>
+            <p>
+               <figure>
+                  <figDesc>crest featuring rope, foliage, an anchor, knight's helmet, and snake</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:117815:1" rendition="simple:additions"/>
+            <p>A DIAMOND OR RICH JEWEL, PRESENTED To the <hi>Common-wealth</hi> of <hi>England,</hi> for inriching of the Nation; being neceſſary for the uſe of all Marchants and Tradeſmen, and advantagious to the poor: Wherein is declared a way,
+<list>
+                  <item>1 <hi>How all forraign moneys may paſs in</hi> England, <hi>and gain the Merchants</hi> 10 Per Cent. <hi>and to put off our Manufacture without paſſing our</hi> Engliſh <hi>coyn into o<g ref="char:EOLhyphen"/>ther Countries.</hi>
+                  </item>
+                  <item>2 <hi>To ſettle a Banke in</hi> London <hi>for furniſhing all trades with mo<g ref="char:EOLhyphen"/>ney, and to quit the Nation of beg<g ref="char:EOLhyphen"/>gars.</hi>
+                  </item>
+                  <item>3 <hi>To ſupply the Nation with Salt at three half pence the Gallon.</hi>
+                  </item>
+                  <item>4 <hi>To encreaſe the Trade of fiſhing without being beholding to others.</hi>
+                  </item>
+                  <item>5 <hi>To make</hi> England <hi>the richeſt Nation in</hi> Europe, <hi>both for Gold and Silver.</hi>
+                  </item>
+                  <item>6 <hi>To ſave half the charges of the Officers of Exciſe and Cu<g ref="char:EOLhyphen"/>ſtome, for the eaſe of the free-born people of the Nation.</hi>
+                  </item>
+                  <item>7. <hi>To free all neceſſary commo<g ref="char:EOLhyphen"/>dities from Taxes.</hi>
+                  </item>
+                  <item>8. <hi>To ſettle an inſurance Office cheap, and not to pay above five in the hundred for inſurance from Pirats in all parts of</hi> Eu<g ref="char:EOLhyphen"/>rope <hi>and</hi> America.</item>
+               </list>
+            </p>
+            <p>By Capt. SAMUEL CHAPPEL.</p>
+            <p>
+               <hi>Licenſed, and entred according to Order.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>John Clowes,</hi> againſt the Lower-Pump in <hi>Grubſtreet,</hi> 1650.</p>
+            <pb facs="tcp:117815:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:117815:3"/>
+            <pb facs="tcp:117815:3"/>
+            <head>A PETITION PRESENTED By Capt. <hi>Samuel Chappel,</hi> To the Right Honourable the Councel for re<g ref="char:EOLhyphen"/>gulating of Trade. Dedicated, To the Lord <hi>Whitlock,</hi> and the Lords Keepers of the Great Seal of <hi>England,</hi> and to the Lord Chief Juſtice <hi>Role,</hi> and to the reſt of the Lord Ju<g ref="char:EOLhyphen"/>ſtices of the Common Law; Deſiring them to ſolicite the effecting of it to the <hi>Parliament.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>YOur ſervant having waited here in <hi>London</hi> this two years and three quar<g ref="char:EOLhyphen"/>ters to have Juſtice, he having done ſervice, and deſireth to be paid his ar<g ref="char:EOLhyphen"/>rears, and his money disburſed for the Parlia<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:117815:4"/>of <hi>England,</hi> which is yet unpaid to this day.</p>
+            <p>And whereas he ſees damage to many by cheating and couzening by ſome in Office, pre<g ref="char:EOLhyphen"/>tending good husbandry to the State, who eate the poor as bread, and others alſo act the like contrary to Gods Lawes and the Nations, ma<g ref="char:EOLhyphen"/>king it their Trade to deceive and devoure one another, counting themſelves wiſe in their own eyes: So at your ſervants departure here hence, he thought good to write theſe lines, and to leave them in print, as a token of his love to his Na<g ref="char:EOLhyphen"/>tion; which he hopeth will prove for the good of all the people our brethren: hoping alſo that your honours in his abſence, will endeavour the furthering of the publick in it, to have it effect<g ref="char:EOLhyphen"/>ed.</p>
+            <p>So conſidering the cry of the poor, the great unjuſtice done unto our Liberties promiſed us, the neglect of ſetling Religion agreeable to Je<g ref="char:EOLhyphen"/>ſus Chriſt his Commiſſion, to the Apoſtles rule in the Primitive Church, we profeſſing Jeſus Chriſt. Now all is turned from performance to vice and pride, ſelf-ends, and Covetouſneſs, and other crying ſins which now reign to much amongſt us; which is much wiſhed and deſired by the godly party, that there might be a re<g ref="char:EOLhyphen"/>formation of it in this Nation.</p>
+            <p>And becauſe your Honours are in places of power, to cauſe juſtice to be executed upon all
+<pb facs="tcp:117815:4"/>Offendors, and to do juſtice to the innocent that merit.</p>
+            <p>Your ſervant conceiveth no fitter mon, to Dedicate theſe lines unto, but to your Honours, he publickly ſeeing ſo many put offs, in Courts of Authority, hoping that your Honours will become Inſtruments of ſettling up wayes in this Nation, that God may be glorified by us; and that our poor Nation may be eaſed of yoaks and burthens now laid upon them, againſt the written word of God; for never had a Nation more bleſſings indued them then now <hi>England</hi> hath, both of temporall and ſpiritual means, if we could make good uſe of them, but 'tis feared they make bad uſe of them; for profeſ<g ref="char:EOLhyphen"/>ſion draweth no man to Heaven, but by living a pure and undefiled life, for many are wiſe to do evil.</p>
+            <p>So referring the conſideration hereof, being ſhort till his other lines come forth, which will be in his due time; Your ſervant taking leave doth commit your Honours, and his proceed<g ref="char:EOLhyphen"/>ings to Gods bleſſing, and ſhall ever reſt,</p>
+            <closer>
+               <signed>Your Honours humble ſervant, <hi>SAMUEL CHAPPEL.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Auguſt</hi> 20. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:117815:5"/>
+            <head>THE PERTICULARS Contained in the following BOOK.</head>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>THe Recommendation of it to the Lords Keepers of the great Seal of <hi>England,</hi> and to the Lord Chief Juſtice <hi>Role,</hi> and Lord Juſtice of the Common Law.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II.</head>
+               <p>The Petition ſheweth.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>How all Forraign money may paſs in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and gain the Merchants 10 <hi>Per Cent.</hi> 20 <hi>Per Cent.</hi> and gain by Bills of Exchange 10 <hi>Per Cent.</hi> alſo, and put off our <hi>Engliſh</hi> Goods manifactu<g ref="char:EOLhyphen"/>red to ſtrangers, to hinder them for carrying a<g ref="char:EOLhyphen"/>wayofour <hi>Engliſh</hi> money.</p>
+            </div>
+            <div n="4" type="part">
+               <pb facs="tcp:117815:5"/>
+               <head>IIII.</head>
+               <p>Another Propoſition declaring a way to ſup<g ref="char:EOLhyphen"/>ply the Nation with Salt at three half pence the Gallon, to further the fiſhing Trade without being beholding to any other Princes for it.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>A way alſo to ſettle a Bank in LONDON, to furniſh money to all Tradeſmen and others, to put all the Nation upon induſtry to live with<g ref="char:EOLhyphen"/>out beggers.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI</head>
+               <p>Another regulating a way for conference for ſettling of good Trade.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Alſo a way to build great ſhips, to draw a lit<g ref="char:EOLhyphen"/>tle water ſerviceable for war, and carry Mer<g ref="char:EOLhyphen"/>chants goods cheap, and that no Guns be hin<g ref="char:EOLhyphen"/>dred to make uſe to fight, and Seamen may have the benefit for their careful induſtry, and that half the charges of the Officers of the Cuſtome-Houſe and Exciſe-Office, may be ſaved for the benefit of the Common-wealth; and that ſtran<g ref="char:EOLhyphen"/>gers pay double Cuſtome and Exciſe, that our
+<pb facs="tcp:117815:6"/>free-born people may have the more imploy<g ref="char:EOLhyphen"/>ment to gain their livelihood.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII.</head>
+               <p>That Corn and other neceſſary Commodi<g ref="char:EOLhyphen"/>ties, may be freed from Taxes, to eaſe our free<g ref="char:EOLhyphen"/>born brethren.</p>
+            </div>
+            <div n="9" type="part">
+               <head>IX.</head>
+               <p>A reaſon to make appear that what our Mer<g ref="char:EOLhyphen"/>chants pay for Cuſtome and Exciſe, for what Goods they carry out of England, is no dam<g ref="char:EOLhyphen"/>age to them.</p>
+            </div>
+            <div n="10" type="part">
+               <head>X.</head>
+               <p>A reaſon that all Goods of fantaſie ſhould pay great Cuſtomes and exciſe, by reaſon our Nation ſtands not in need of them; for the rich buy them to nouriſh their luſt.</p>
+            </div>
+            <div n="11" type="part">
+               <head>XI.</head>
+               <p>No reaſon but ſtrangers ſhould pay a duty for fiſhing upon our Seas.</p>
+            </div>
+            <div n="12" type="part">
+               <head>XII.</head>
+               <p>A Reaſon that Harbours, Keyes and Naviga<g ref="char:EOLhyphen"/>ble Rivers, ſhould not be neglected but kept
+<pb facs="tcp:117815:6"/>in good order, that Veſſels may paſſe ſafely.</p>
+            </div>
+            <div n="13" type="part">
+               <head>XIII.</head>
+               <p>That all plantations may be regulated, for the good of the Common-wealth. That we may trade to the South-Seas, and <hi>Indies,</hi> to in<g ref="char:EOLhyphen"/>rich this Nation.</p>
+            </div>
+            <div n="14" type="part">
+               <head>XIV.</head>
+               <p>That Ships of War, and Commodities; may be provided to ſupply the Nation, and daunt all Engliſh Enemies, if men of publick ſpirits be imployed in it, and for the charges to defray it, the Petitioner will diſcover a way to the Parliament, to ſupploy all their wants, to make England the richeſt Nation for Gold and Silver in <hi>Europe.</hi>
+               </p>
+            </div>
+            <div n="15" type="part">
+               <head>XV.</head>
+               <p>Alſo a way to further fiſhing, making of lin<g ref="char:EOLhyphen"/>nen Cloath, and imploy many people to get their lively-hood.</p>
+            </div>
+            <div n="16" type="part">
+               <head>XVI.</head>
+               <p>That no men be ſuffered as ſpirits, to be<g ref="char:EOLhyphen"/>tray their brethren, and ſell them for ſeven year.</p>
+            </div>
+            <div n="17" type="part">
+               <pb facs="tcp:117815:7"/>
+               <head>XVII.</head>
+               <p>That a way may be regulated, that there may be a Court of audience, that all Petitions may be heard by the Parliament.</p>
+               <p>Further, a way, to ſettle a way of an inſu<g ref="char:EOLhyphen"/>rance office cheap, and not to pay above four in the hundred, for inſurance from Pirots in all parts of <hi>Europe</hi> and <hi>America.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="tract">
+            <pb n="1" facs="tcp:117815:7"/>
+            <head>TO THE Right Honourable the Councel for regu<g ref="char:EOLhyphen"/>lating of TRADE. <hi>The humble Petition of</hi> Captain Sa<g ref="char:EOLhyphen"/>muel Chappel <hi>of</hi> Freminton, <hi>in the County of</hi> Devon, <hi>Merchant.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>SHEWETH,</opener>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat your Petitioner hath ſerved the <hi>Parliament</hi> by land and Sea, from 1641. and hath ſtill proved conſtant to them, and hath ſeen much of paſſages in trading. That he deſireth, finding no reaſon oppoſite, except
+<pb n="2" facs="tcp:117815:8"/>it be, that we of this Nation, having been mi<g ref="char:EOLhyphen"/>ſtaken by undervaluing of forraign Coyns; are by other Nations diſeſteemed, which to avoid his deſire is, that if is pleaſe your Honours that all forraign Coyn in its full weight of good Gold and Silver Bullion, may paſſe in Eng<g ref="char:EOLhyphen"/>land, and Ireland, and other Countries amongſt Merchants and others; for the advance of trade<g ref="char:EOLhyphen"/>ing to maintain the poor, and recrute the Na<g ref="char:EOLhyphen"/>tion, to be repleniſhed with money after theſe ſad times.</p>
+                  <p>That in regard the King of <hi>Spain</hi> doth pay his Souldiers with Braſſe, and Copper money, as their pieces of eight, Royals, plate for 20. Royals; 18. Royals, 16. Royals, 14. Royals, and 12. Royals the leaſt, and ſo paſſeth among Merchants and others, the Spaniard advancing it 50. per cent. higher in their own Countries then in reaſon it ſhould. And in France they pay the pieces of eight for 6. ſhillings, and in Portugal for 6. ſhillings, and in Holland for 48. ſtuyvers, and ſome for 5. ſhillings, and their Gold the like. And in the Eaſt Countrey and Germany the like, where it paſſeth among Merchants and others.</p>
+                  <p>Your Petitioner deſireth the premiſes conſi<g ref="char:EOLhyphen"/>dered; that all their Gold and Silver Coyn may paſſe, as <hi>viz.</hi> That is to ſay; that all pieces of eight, Piſtols bigger, or ſmaller pieces of Spa<g ref="char:EOLhyphen"/>niſh Coyn, may paſſe for 20. per cent. higher then in Spain, which will be the piece of eight
+<pb n="3" facs="tcp:117815:8"/>here for 5. ſhillings, which is leſſe then in other parts, and their Gold the like; and that all French, Holland, Germane, and the Eaſtern Countries moneys of good Bulloin, Coyned Gold or Silver of its full weight, may paſſe here for 10. per cent. higher then in them parts; and that their Coyns be regulated, what of them ſhall paſſe here, and that this may be done in regard that they receive our Gold and Silver Coyn, and pay it in their Countries for above 10. per cent. higher then we pay it in England, for by their cunning conveying it away, we muſt beat them in their own play, that is by raiſing of their money here, and per<g ref="char:EOLhyphen"/>mitting it to paſſe amongſt us. So we muſt ſtill keep their money 10. per cent. higher here, then they pay it in them Countries, which muſt be looked after by the Mr. of the Mint. And ſtill raiſed upon this report as they raiſe it, for this will cauſe linnen Cloath, and commodities in them Countries to be bought cheaper then now they are, by reaſon that Merchants will make their return in money, and it will return profit to them 10. per cent. upon Bills of Exchange. Alſo, for example I have money in Holland, and I write to my Factor, to return me a Bill of Exchange, of 9. pound Sterling, to be paid here in Fleamiſh money; ſo he takes the 9. pound Sterling, and payes it there for 10. pound Fleamiſh, and ſends me the Bill of Exchange to be paid here 10. pound Fleamiſh, ſo that I
+<pb n="4" facs="tcp:117815:9"/>am gainer 10. per cent. which is currant, being raiſed as before expreſſed here.</p>
+                  <p>And ſo we may do it for more or leſſe in France, and other parts, taking this caveat, to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> what money they ſhall be paid for their goods, and by this rule the Merchants ſhall gain every way by trading or buying their goods cheaper, or upon return of their money, or up<g ref="char:EOLhyphen"/>on bills of Exchange.</p>
+                  <p>This will beat them in their own play, for raiſing our money as above declared, and draw in money here from all thoſe Countries, for we have no Articles of peace with any debar<g ref="char:EOLhyphen"/>ring us from it; but onely our peace is to com<g ref="char:EOLhyphen"/>merce with them ſo that they cannot except a<g ref="char:EOLhyphen"/>gainſt us, except they deny our moneys in their Countries and commands, or paſſe it in pay<g ref="char:EOLhyphen"/>ment for no more then in England, for it is fit for our Nation to have State-policie: for com<g ref="char:EOLhyphen"/>merce and Trade, as well as they; which your Honours being choſen to take the premiſes in<g ref="char:EOLhyphen"/>to conſideration, ought not through weakneſſe to deceive your truſt.</p>
+                  <p>Alſo that all forriegners be ordered to give ſecurity to the Cuſtom-houſes, that they ſhall imploy the return of their goods, in Engliſh goods manifactured here, to carry away; which will preſerve our money.</p>
+                  <p>Your Petitioners caveat to your Honours is; that it is an Honour to a Nation, to pay no braſſe nor copper Coins; but a diſhonour to a
+<pb n="5" facs="tcp:117815:9"/>Nation, that cannot pay their Debts for want of each ſort, nor in Gold, nor Silver Bullion, neither, when as we may have it for the Coin<g ref="char:EOLhyphen"/>ing, and live gallantly by your Petitioners councel if it may be accepted; but now we are contented like the drones, to live beggerly as now we do in England, having to our ſhames great means of Gods bleſſings, and may live plentifull of money and other things, if we will, and have it better, if we did imploy men of pu<g ref="char:EOLhyphen"/>blick ſpirits, that hate covetouſneſſe and pride; but your Petitioner hopeth that our eyes will be opened.</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>Sheweth,</opener>
+                  <p>THat your Petitioner deſireth for the in<g ref="char:EOLhyphen"/>riching of this Nation, to ſupply the Na<g ref="char:EOLhyphen"/>tions wants with Salt: that is, to get ſuch num<g ref="char:EOLhyphen"/>ber of men and Veſſels to take Herrings as the Hollanders do, and to ſupply new England, Newfound-land, and the North-Sea, Fiſhing-trades; which after improvement of 2. or 3. years, there will come into England, inſtead of hundred thouſands pounds in Coin, many Millions for which improvement, the beſt way will be, (in your Petitioners opinion) to ſettle a place to be provided for with Salt of our own Nations, without being beholden to other Nations; for it is more Honour to have of our own, then to be beholden to other Prin<g ref="char:EOLhyphen"/>ces.</p>
+                  <pb n="6" facs="tcp:117815:10"/>
+                  <p>Your Petitioner will ingage his life with your Honors, that if your Honours will procure him letters patents, and a Commiſſion from the Par<g ref="char:EOLhyphen"/>liament, to raiſe 150. men, &amp; ſupply them with all neceſſaries for war, and lively-hood for one year, and pay the charge of a Ship; and their proviſions and men for ſix Moneths, and give to him and his heirs ſuch places where he will adventure to take them, making the places feaſable to 7. of your Honours being now in the Enemies Countries, that he will ſail to them parties and take them, and ſecure it and them, under God, to this Nations Command, and this Nation ſhall have ſupplied them (if it want) 20000. Tuns of Salt yearly, at the price of three half pence per Gallon, which is no more then now they pay exciſe for forraign ſalt, and after the ſaid places are ſecured, all Mer<g ref="char:EOLhyphen"/>chant Ships that will come there to fetch any Salt, ſhall have it at the rate of 5. ſhillings per ton, (20. hundred weight to the Tun) brought for them to the water ſide, which will be chea<g ref="char:EOLhyphen"/>per then they can draw it out of the ponds, in Meat, Drink, and wages, and Ship-hire; ſo that in time our Ships will ſupply the Eaſtern Countries in abundance.</p>
+                  <p>And for the benefit your Petitioner ſhall gain by acting this diſcovery; he ſhall pay a duty to the Common-wealth of England 1000. Tuns of Salt yearly, to victual the Na<g ref="char:EOLhyphen"/>vy, if the ſaid Common-wealth do ſend their
+<pb n="7" facs="tcp:117815:10"/>Ships to load it where it ſhall be provided for them. Allwayes provided that all Salt, that comes from thoſe parts, and imployed in fiſh<g ref="char:EOLhyphen"/>ing, and made uſe of, for fiſhing improve<g ref="char:EOLhyphen"/>ment what way ſoever it may be done, ſhall be free from all Cuſtome, Taxes, and Exciſe; and the charge of fetching the ſame Salt, will ſtand bringing home, but 30. ſhillings the Tun more.</p>
+                  <p>And further out of his free will he will; at ſome convenient time, after that he is quietly poſſeſſed of his ſaid places; pay the Lord or Lords of the ſaid places there, full value for them, to be held for him and his heirs for ever, to trade unto, for the Common-wealth of Eng<g ref="char:EOLhyphen"/>land. All which he will do out of his good conſcience.</p>
+                  <p>Further, your Petitioner hopeth that after he hath performed with the Parliament, the afore<g ref="char:EOLhyphen"/>ſaid promiſes. That your Honours will be<g ref="char:EOLhyphen"/>come ſuiters to the Honourable houſe, in your Petitioners behalf, that he may be paid his 4. or 500. pound due to him, from them; and have Juſtice, for thoſe wrongs he hath ſu<g ref="char:EOLhyphen"/>ſtained: or that your Petitioner may have a grant, and a Commiſſion, to take thoſe parts mentioned above expreſſed, for himſelf and his partners, without paying the 1000. Tun of Salt by the year to the State, and the Petitioner ſhall perform what is mentioned, for the good of the Common-wealth.</p>
+               </body>
+            </floatingText>
+            <pb n="8" facs="tcp:117815:11"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>Sheweth,</opener>
+                  <p>THat your Petitioner deſireth, for the im<g ref="char:EOLhyphen"/>provement of the Trade to this Nation, and for the incouragement of Trades; that a Bank be regulated, as in <hi>Venus, Naples, Genua,</hi> and other parts, which way may be done in this Nation, for furthering all ſorts of people to live without beggery.</p>
+                  <p>That is, that all ſorts of men that have mo<g ref="char:EOLhyphen"/>ny lie by them, that if they will put it into the Bank; they ſhall have 5. per Cent. allowed them, and their heirs for ever; as the now uſual purchaſing of land is, for to come to their heirs, notwithſtanding any offence committed, whereby now, it is forfeited to the State. So that the Monies in Bank to be exempt from all forfiaure, or Taxes. This will much further the Banks; as alſo free of all Taxes, payments, or any charge whatſoever.</p>
+                  <p>That all others ſhall have 5. per Cent. and their money again, within 14. dayes notice, with their 5. per Cent. per annum profit, for the time it lies in Bank. Provided that it lies 6. Moneths in the Bank. The Bank lends mo<g ref="char:EOLhyphen"/>ney to the King of <hi>Spain,</hi> and great men, and all Merchants, and others, upon good ſecurity; for 10. per Cent. per annum for leſſe, or more time, as occaſion ſerves; out of which 10. per Cent. half of one, of the hundred, ſhould be allowed for officers, and the other half of the one, in the hundred, to be allowed for the re<g ref="char:EOLhyphen"/>lief,
+<pb n="9" facs="tcp:117815:11"/>or ſetting up, of poor decayed men; and the 4. per Cent. to remain in Bank, with the 5. per Cent. to ſupply improving of Trade and finding out of Trades, and new Plantations for Trading.</p>
+                  <p>By this Bank, Commerce and Trading is kept, and all in them parts live rich, and pay no Intereſt nor uſe; for it is not eſteemed uſe, when men pay 10. per Cent. for their own ends, to get more by it in trading.</p>
+                  <p>For this will imploy many wiſe men in Trade, that are poor; by finding friends of credit, to be their ſecurity: for it is ordered for good uſes, though Idolatours uſe it, and ſhows examples, to ſupply trading, for it ſets up many a poor underſtanding man.</p>
+                  <p>If the Banks want money, preſently they ſend to thoſe men of quality that have it by them; and for 5. per Cent. the Banck is fur<g ref="char:EOLhyphen"/>niſhed, and ſo lend out ſtill.</p>
+                  <p>If the Banck break, then they return in all their bonds, and ſecuritie to pay their Credi<g ref="char:EOLhyphen"/>tours which is ſtill feaſeable for it.</p>
+                  <p>By this means, Trade is advanced, and no Beggers.</p>
+                  <p>This is worthy in theſe times of acceptance, thought it come from a poor man; for your Petitioner expecteth ſuch a reward, as he, who delivered a City by his wiſdom, for men are as bad now as then, but he is ſure to take the leſſe pains, in not giving thanks for naught.</p>
+               </body>
+            </floatingText>
+            <pb n="10" facs="tcp:117815:12"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>Sheweth,</opener>
+                  <p>THat your Petitioner ſees no reaſon, that we gained our Liberty by the ſword, ſhould have any Companies admitted in Trading, Priviledged more then others of our free-born brethren; but that for the better managing of good Trade, it is deſired, that all Companies that are now, or ſhall be, impowered in Com<g ref="char:EOLhyphen"/>panies for advance of Trading, that all, that would adventure their money, upon profit or loſſe; ſhould be admitted to put in their money in ſtock, or Bank; and to receive profit and loſſe, equally; which to further many men of Quality, having plenty of money, will be wil<g ref="char:EOLhyphen"/>ling to do the like, for their own advantage, and the Common-wealths good. Provided, that there may be Maſter, and Officers of Com<g ref="char:EOLhyphen"/>panies, for the well-governing of Trades, that one may not hinder another in Trading, as now they do to their own great damage, and the Common-wealths great loſſe, for trading well regulated will advance much, to the trades and Common-wealth alſo.</p>
+                  <p>That Maſters of Ship-wrights, may be regu<g ref="char:EOLhyphen"/>lated a way to build Ships, of no leſſe burthen then 300 Tuns, and draw not above 12 foot of water, with ſufficient length to ſerve the State, and carry Guns to preſerve the Merchants goods, who will ſail with few men, as cheap as the Hollanders, to eaſe the Nation of charges. And that in new England the like be ordered,
+<pb n="11" facs="tcp:117815:12"/>except for ſome ſmall Veſſels, to trade in pla<g ref="char:EOLhyphen"/>ces of ſafety, without danger of Pirats, when they muſt draw but little water, for fear of ſhelves and rocks.</p>
+                  <p>That a courſe be taken, that 14. Ships at leaſt 300. Tuns per piece, may be provided yearly in New-England; for ſervice and trades, as occaſion ſerves.</p>
+                  <p>That all Ship-maſters, that carry Guns with them, be ingaged, to load no goods that ſhall hinder their Guns from fight; for many have loaden ſo much goods, &amp; have ſtowed the places of the Guns with goods, that when they ſhould have made uſe of their Guns, they could not; by which reaſon they have loſt their Ships, Goods, and all; for not being able to fight, to their utter undoing, and hindering of the Com<g ref="char:EOLhyphen"/>mon-wealth, their Ships after becoming Ene<g ref="char:EOLhyphen"/>mies, and have taken many of our Ships.</p>
+                  <p>That all Sea-men, that navigate in any Veſ<g ref="char:EOLhyphen"/>ſels; do take their Oaths, what goods they car<g ref="char:EOLhyphen"/>ry with them, or bring home in their Ships; that the Cuſtom and Exciſe may be paid, and and further care and incouragement to fight, and preſerve their Ships and Goods, and every Factour to have 5. l. the Maſter 4. l. the Purſer 4. l. the Maſters mate 3.l. a piece, the Quarter maſter, Boatſman, and Gunner 40. ſhillings a piece, their Mates 30. ſhill. a piece, the Com<g ref="char:EOLhyphen"/>mon men 20. ſhill. a piece allowed them.</p>
+                  <p>In Cuſtoms and Exciſe, if it be a Ship of
+<pb n="12" facs="tcp:117815:13"/>300. Tuns or more, or leſſe, as the burthen of the Ship is proportionally, to that rate this to be given them for their furtherance in Cu<g ref="char:EOLhyphen"/>ſtoms of goods, that is to ſay; if other goods be their own to incourage them, by which means half the Officers now imployed, may be taken off from their charges, that the State payes them now in the Cuſtom-Houſe, and Exciſe Office.</p>
+                  <p>That all forreign Nations, that bring goods into England, or Ireland, or carry goods out of it, pay double Cuſtom and Exciſe, that trading may be made uſe of, by our Free-born peo<g ref="char:EOLhyphen"/>ple.</p>
+                  <p>That Corn, Deals, Tar, Hemp, Flax, or any Victualing Materials, nor Timber, Wares, un<g ref="char:EOLhyphen"/>manufactured, and Maſts, pay nothing at all; and that Barielia, ſallet Oyl, and Pot-aſhes, pay but half Cuſtom and Exciſe, being materials to make Sope and Glaſſes.</p>
+                  <p>That goods which go out of England, or Ireland, &amp; come to forreign Nations, be highly taxed, except Fiſh, and fiſh-Oyls; for the ſtran<g ref="char:EOLhyphen"/>gers pay it, though our Merchants disburſe it here.</p>
+                  <p>That all Tobacco, Wines, Silk, fine Linnen, of above 3. ſhill. an ell, dying Comodities, Su<g ref="char:EOLhyphen"/>gars, Spices, Callicoes, Drugs, and Indico; pay duble Exciſe and Cuſtom.</p>
+                  <p>That all Ships, or Veſſels that are ſtrangers, that fiſh upon our Engliſh Coaſt, and under
+<pb n="13" facs="tcp:117815:13"/>our Command, pay tribute to <hi>England,</hi> 10 l. <hi>per</hi> Veſſels in fiſh or money, for each Voy<g ref="char:EOLhyphen"/>age.</p>
+                  <p>That <hi>Swanſey</hi> and <hi>Aberdawe,</hi> in <hi>Glamorgan<g ref="char:EOLhyphen"/>ſhire</hi> in <hi>Wales,</hi> barred Harbours, may be cleanſ<g ref="char:EOLhyphen"/>ed, that Ships may ſafely come in and out to them; and that <hi>Clavelley Key</hi> in <hi>Devon,</hi> and the <hi>Mumbles Key,</hi> by <hi>Swanſey,</hi> be repaired and made fit for the Veſſels to ſecure themſelves in.</p>
+                  <p>That all Werries in Rivers, may not be ſuffer<g ref="char:EOLhyphen"/>ed to annoy Boats, as now they do, lying quite overthwart the Rivers.</p>
+                  <p>That all Plantations in forraign Countries, do cauſe Vines to be planted, for <hi>VVines, Sugar, Canes, Indico, VVood, Hemp, Flax, Cotron,</hi> all ſorts of <hi>Fruit, Trees,</hi> and ſearch for dying <hi>VVood, Gold, Silver, Copper, Braſſe, Iron, Tin, Lead,</hi> or <hi>Salt,</hi> get <hi>Spice-Trees,</hi> and <hi>Cani<g ref="char:EOLhyphen"/>fisttula-Trees, India Commodities,</hi> from the back ſide of their Land, in the South Sea, and make a way through the Land to trade to it; to keep Ships there, and to keep commerce with the <hi>Heathens,</hi> till they be converted; which may be eaſily done, from <hi>Virginia</hi> with 500. men, which if the <hi>Plantors</hi> would do, they ſhould be free from any Taxes, for 14. years, but if they refuſe, your <hi>Petitioner</hi> will hereaf<g ref="char:EOLhyphen"/>ter acquaint more of it.</p>
+                  <p>That if the <hi>Parliament</hi> will provide money by a way, your <hi>Petitioner</hi> will ſhowe them, he will put them in a way to provide 70. Sail of great Warlike Ships, and provide them 100.
+<pb n="14" facs="tcp:117815:14"/>Ships more which ſhall be capable with our Ships, we have to encounter all the Ships in Chriſtendom, to make all Chriſtendom and all Countries and Nations to tremble at our Na<g ref="char:EOLhyphen"/>tion as well by Sea as by Land, and furniſh the Nation with <hi>Deale, Masts</hi>-and-<hi>Holland</hi> Commodities for 7. years, and alſo have a free Trade open to the <hi>VVeſt Indias,</hi> and from the back ſide of the South Seas, to trade to the <hi>Eaſt India,</hi> where great treaſuries would come from and inrich this Nation, if men of publick ſpi<g ref="char:EOLhyphen"/>rits take it in hand.</p>
+                  <p>Then all may come to the inſureing office, and pay 5. <hi>per Cent</hi> within the <hi>Straits,</hi> 3. <hi>per Cent,</hi> for aſſurance to be ſecured from men of War, &amp; Pyrates, according to what they load by their Cockets, if they go into the ſtraits mouth. And 2. <hi>per Cent</hi> to the Northward of the Barlings for <hi>P<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rtingal,</hi> and the other parts of <hi>Spain,</hi> and 1. <hi>per Cent</hi> for <hi>France, Flanders, Greenland,</hi> and the <hi>Eaſtern Countries,</hi> and thereabouts, which aſſurance be paid for outward, and the like homeward, and after that rate for other parts.</p>
+                  <p>That for the furthering of fiſhing, and make<g ref="char:EOLhyphen"/>ing of Linnen-cloth, and other induſtry in Trading, that all thoſe Women in <hi>London,</hi> or other parts of the Nation, that keep ſtandings of retail or petty ſhops, that they be ordered to ſpin <hi>VVorstead Cotton, Flax, Hem</hi> or <hi>VVooll</hi> to the ſaid places, they ſtand at, and they to have their turns <hi>VVheels,</hi> and <hi>Distaffes</hi> to their girdle to ſpin, or knit ſtockings, or ſowe upon ſome
+<pb n="15" facs="tcp:117815:14"/>ſaleworks, or make lace or laces, or ſome ma<g ref="char:EOLhyphen"/>nufactury work. And that all <hi>Barbers, Tape<g ref="char:EOLhyphen"/>strs,</hi> and petty <hi>Shop-keepers,</hi> be ordered that they the time of their not being imployed in their Trade, that they knit nets to catch fiſh, or the like, except it be on Market-dayes, ſo that every one may gain a Livelihood to further themſelves, and if any one be not in action or provided with materials for the work, then the ſaid party to forfeit 5 s. or to ſet in the flocks, half the money to the Officer that finds the ſaid party faulty, and the other half to the poor of the ſaid Pariſh.</p>
+                  <p n="1">1. For the furthering of Trade and ſecuring of Ships, Men, and Merchants Goods, it is de<g ref="char:EOLhyphen"/>ſired as it was ſome 20. years paſt, that there might be a light ſet upon the Iſland of <hi>Louday,</hi> that all Ships that come into the Channel of <hi>Sevoron,</hi> might have the benefit of it, to know where they are in the night, and for the main<g ref="char:EOLhyphen"/>tenance of it there, there ſhould be paid from <hi>Clovelley</hi> in <hi>Devon,</hi> to St. <hi>Dains</hi> in <hi>Pembrook<g ref="char:EOLhyphen"/>ſhire,</hi> betwixt which two places all <hi>Seavorun</hi> runs, ſo they might be paid the ſame payments that ar paid here, as they are paid here in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> for lights of the <hi>Neſe,</hi> and other parts which will refray the ſame, and the Petitioner will undertake it, if your Honours pleaſe; for Ships have been loſt, and Men and Goods, for want of it upon the ſaid Iſland, and other parts thereabouts the winter time.</p>
+                  <p n="2">2. Alſo it is deſired, that all ſhips that carry
+<pb n="16" facs="tcp:117815:15"/>above 50. men, may have a <hi>Chaplain</hi> to be paid his ſallary, 6 d. <hi>per pound</hi> of each Seamans wa<g ref="char:EOLhyphen"/>ges, and ſo much more, and all they that pay him, ſhould be by the honour of the ſhip, &amp; to have his Victuals allowed him with the Cap<g ref="char:EOLhyphen"/>tainand Maſter.</p>
+                  <p>That ſpecial regard be had for the preſerva<g ref="char:EOLhyphen"/>tion of their young fry of fiſh, to the furthe<g ref="char:EOLhyphen"/>rance of the Trade of fiſhing.</p>
+                  <p>That none of thoſe men that are termed ſpi<g ref="char:EOLhyphen"/>rits, may be ſuffered to take up any perſon up<g ref="char:EOLhyphen"/>on pretence, and after houſe them and carry them aboard ſhips, and carry them to Planta<g ref="char:EOLhyphen"/>tions and ſell them for 7. years againſt their wills, which breeds great ſorrow to their friends, not knowing what is become of them, which is a great ſin againſt God and Man, and our Liberty.</p>
+                  <p>Your Petitioners deſireth for the better re<g ref="char:EOLhyphen"/>gulating of Trade, and eaſement of all the Pe<g ref="char:EOLhyphen"/>titioners, that for as much as many Petitions are daily by ſeveral perſons deſired to be pre<g ref="char:EOLhyphen"/>ferred to the Parliament, who for a long ſpace have ſeldom admitted of them, or if admitted, ſildom taken the Contents into conſideration, in regard of the great and mighty affairs of the publick, have been eſteemed and regarded as private to the great diſcouragement of the Peti<g ref="char:EOLhyphen"/>tioners, and others of the publick ſpirits, to<g ref="char:EOLhyphen"/>wards the Common-wealth; for the avoiding of which inconveniences, it might greatly be wiſhed that a Committee or Court of audi<g ref="char:EOLhyphen"/>ence
+<pb n="17" facs="tcp:117815:15"/>might forth-with be inſtituted and ap<g ref="char:EOLhyphen"/>pointed to receive de <hi>diem in diem,</hi> all Petitions whatſoever, and make a true and exact report of all ſuch Petitions as ſhall to the ſaid Com<g ref="char:EOLhyphen"/>mittee or Court ſeem fitting to be preſented to the Parliament, &amp; that there be nothing paid by any Petitioner, or to any of the ſaid Commit<g ref="char:EOLhyphen"/>tee, or Court for his diſpatch, nor to any Clark or Officer of the ſaid Committee; but that al<g ref="char:EOLhyphen"/>lowance out of the publick treaſury be granted unto them for their pains, and that whoſoever of them or their Officers, that ſhall be known to take and receive any money whatſoever, or bribe or gift from any Petition, in regard of his Petition, ſhall ſuffer impriſonment for one whole year, and repay treble the value, and be diſinabled of bearing any Office for 7. years. Provided, that the ſaid Committee or Court be not required to make report of ſuch things as belong to the Courts of Judicature and Chancery, but that ſuch things wholly be left to the Law. Moreover, that the Parliament ap<g ref="char:EOLhyphen"/>point ſome certain dayes, <hi>viz.</hi> 2. or 4. in a moneth to hear the Reports of Petitions, and there to return anſwer.</p>
+                  <p>The Petitioner humbly requeſteth, that he with others may be thought worthy to nomi<g ref="char:EOLhyphen"/>nate and propound ſuch men, as to him and o<g ref="char:EOLhyphen"/>thers may ſeem moſt ſincere, and fit for this imployment of audience.</p>
+                  <p>Your Petitioner deſireth, that if the Parlia<g ref="char:EOLhyphen"/>ment pleaſe, he will ſhew them a way to have
+<pb n="18" facs="tcp:117815:16"/>ſuch great ſums of money to be capable to per<g ref="char:EOLhyphen"/>form all thoſe undertakings, <hi>viz.</hi> And to pay all the Nations debt, and take off all Taxes, and have money in Caſh to maintain War againſt all our Enemies; alſo to ſet up an Office for the advance of Trade, which is to inſure all Merchants Goods and Ships, from the danger of Pyrates at Sea in theſe Wars.</p>
+                  <p>The Petitioner doth humbly deſire your Honours for the better regulating of Trade at Sea. And for the ſafty of Merchants goods, &amp; Ships, that your Honours do Petition the houſe that ſome conveinent ſhips with goods or, money, beſent to the great Turkes Countries and other parts, to redeme all our Engliſh chriſtians there, and that there may be a league made with them, that our ſhips and men may ſafely ſayl by them parts. And that all Proteſt<g ref="char:EOLhyphen"/>ants may have liberty of Conſcience in all Na<g ref="char:EOLhyphen"/>tions where they trade to have books freely to be ediſied by them, in making uſe of them ta ſerve God in our profeſſion: ſo that they may not be liable to Mahomets laws, nor the Popes Inquiſition and Doctrine, nor hindered of our proteſtant Religion, to live as Chriſtians, pro<g ref="char:EOLhyphen"/>feſſing Jeſus Chriſt freely, as now we do in England.</p>
+                  <p>Your Petitioner will do the <hi>State</hi> ſome fur<g ref="char:EOLhyphen"/>ther ſervice, if he ſee that this take any effect. And your Honours may have oticen of him at Mr. <hi>Anthony Travilions</hi> in the <hi>Minories.</hi>
+                  </p>
+                  <closer>
+                     <signed>
+                        <hi>And your</hi> Petitioner <hi>ſhall pray,</hi> &amp;c. <hi>And I ſhall reſt a Servant to the</hi> Com<g ref="char:EOLhyphen"/>monwealth <hi>of</hi> England, <hi>SAMUEL CHAPPLE</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="19" facs="tcp:117815:16"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>YOur Petitioners abſence hath been from your Honours by being in priſon theſe 12. weeks, for not paying 34 s. 2 d. for coſt in a ſute, he was overthrown in <hi>London,</hi> by one falſe witneſs, where your petitioner ſued an Apoſthicary he the ſaid Apoſthicary being bound to pay your petitiotioner one hundred thirty five half Crowns for a Debenter your Petitioner ſould him by a broker in which De<g ref="char:EOLhyphen"/>bentor the Honourable Parliament owed your Petitioner 135 l. 3 s. 4 d. where your Peti<g ref="char:EOLhyphen"/>tioner being in priſon, had other actions layed againſt him, for meat and drink in attending the Parliaments affairs, ſo that now your Petitioner may ſay, that he is in priſon for his good ſervice done the Parliament, which if they had paid him, your Petitioner had not ſold his Debentor, nor ſuffered this impriſon<g ref="char:EOLhyphen"/>ment. And for liberty, he with others did petition by Col. <hi>Pride,</hi> the 11. of <hi>Novemb.</hi> 1650. theſe heads, <hi>viz:</hi> Directed unto the ſupreme Authority aſſembled for the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi>
+                  </p>
+                  <p>That the Petitioner and others, having ſetled your Honours in the Parliaments Thrown, to cauſe juſtice to be executed in the Nation, are now caſt into priſon for debt, waiting in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> for our arrears in ſervice and money diſ<g ref="char:EOLhyphen"/>burſed, had not your Honours owed us our money, our creditors would not deal ſo cruel<g ref="char:EOLhyphen"/>ly with us, but be favourable and free us upon eaſie terms, as men that had nothing.</p>
+                  <pb n="20" facs="tcp:117815:17"/>
+                  <p>And whereas for our good ſervice we are be<g ref="char:EOLhyphen"/>come a pray to Goalers, and ſuffer for not being paid, (we greue) being it is much to the diſhonour of God, and our Profeſſion and Liberty.</p>
+                  <p>Your humble Petitioner deſires your Ho<g ref="char:EOLhyphen"/>nours to order that none of us of the Jmpri<g ref="char:EOLhyphen"/>ſoned Souldiery ſhall never be paid our Ar<g ref="char:EOLhyphen"/>rears, that our Creditors may commiſerate our cauſes, or that your Honours do grant forth the Act ſo long promiſed to ſet us at liberty, or that our Creditors do accept by your Honors Command of our Debentors, for their debts or to cauſe Juſtice to be executed, that Bread, Beer, and Porviſions may be at the rates in pri<g ref="char:EOLhyphen"/>ſons as abroad. And that ſome godly men may have the review of the priſons, to examine, ſettle, &amp; makegood orders for the priſoners for debt, that we ſtarve not for our good ſervice, as ſome have, and others lye ſtarving at preſent.</p>
+                  <p>I pray accept of your Captains Councel, that is, to pay your old faithful Souldiery leſt they by being provoked, fly from your Ho<g ref="char:EOLhyphen"/>nours for malice for not being paid; for when they are gone your Honours will not have them ſo ſpeedily again for in theſe wave<g ref="char:EOLhyphen"/>ring times they will do more for malice, then for love without money.</p>
+                  <closer>
+                     <signed>Your Honours humble Servant to Command, <hi>SAMUEL CHAPPEL.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117815:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
